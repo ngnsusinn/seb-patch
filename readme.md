@@ -10,3 +10,7 @@ Copy all files of this repo and replace it in
 C:\Program Files\SafeExamBrowser\Application
 ```
 
+## What I mofidy?
+
+- Same as repo [SEBPatch](https://github.com/school-cheating/SEBPatch)
+- Configure to make UI look like default
