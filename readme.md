@@ -14,3 +14,4 @@ C:\Program Files\SafeExamBrowser\Application
 
 - Same as repo [SEBPatch](https://github.com/school-cheating/SEBPatch)
 - Configure to make UI look like default
+- Allow copy in Moodle quiz
