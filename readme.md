@@ -1,4 +1,4 @@
-# Safe Exam Browser Patch
+# Safe Exam Browser Patch for v3.9.0.787
 
 A patch to bypass SEB restrictions
 
